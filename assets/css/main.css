@@ -264,7 +264,7 @@ iframe {
 [ login more ]*/
 
 .login100-more {
-  background-image: url('../images/bg-01.jpg');
+  background-image: url('../images/web-development-image.png');
   width: calc(100% - 560px);
   background-repeat: no-repeat;
   background-size: cover;
